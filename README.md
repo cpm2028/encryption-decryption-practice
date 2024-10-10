@@ -1,2 +1,3 @@
 # encryption-decryption-practice
-HW4
+#use this program to make a password or decrypt one using this encryption method
+
