@@ -1,0 +1,8 @@
+#Description of ideas:
+During this active learning log, my goal was to learn python dictionaries and combining strings. The goal of choosing to do so is to help me in the future with my final project that im doing with Kaito. For the final project Kaito and I are making an encryption/decryption program. Another goal is that I can use the code from here to help speed up the progress on the final project.
+
+Practice:
+a problem I solved is to help people make more secure passwords or to help encrypt sensitive information. They can also decrypt the info incase they forgot it.
+
+Follow up questions/reflection:
+During this assignment I relearned how to use python dictionaries and combine strings, something I have not done in years. A question it brought up is how I can also use dictionaries in the future to help speed up labs, projects, etc. as said before, a question I have for the future is how I can use dictionaries and the combination of strings in the future.
