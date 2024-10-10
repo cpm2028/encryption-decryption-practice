@@ -1,0 +1,14 @@
+# ask user if they need to encrypt or decrypt
+# if user choose encrypt
+    ask for the prompt
+    change the letters based off their input
+    combine the two replacement methods
+    combine it into one string
+    output the encrypted text
+# if they choose decrypt
+    ask for the prompt
+    change the letters based off their input
+    combine the two replacement methods
+    combine it into one string
+    output the decrypted text
+# if they dont enter encrypt or decrypt tell the user its invalid
